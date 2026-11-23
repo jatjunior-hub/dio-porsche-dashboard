@@ -117,6 +117,8 @@ O DIO Agent evolui com o tempo. Se você usou Git, rode `git pull` no terminal, 
 
 Como demonstração prática das skills `data-treatment` e `dashboard-builder`, o projeto inclui um dashboard interativo completo em arquivo único ([`index.html`](index.html)), desenvolvido com identidade visual inspirada na Porsche (preto, grafite, branco e vermelho).
 
+**🌐 Acesse o dashboard publicado:** [Porsche Sales Intelligence](https://jatjunior-hub.github.io/dio-porsche-dashboard/)
+
 ### 🎯 Três Perguntas de Negócio Respondidas:
 1. **Modelos:** Quais modelos concentram maior volume e valor de vendas? (Visualizações desacopladas para quantidade em unidades e montante em R$).
 2. **Geografia:** Quais cidades e estados concentram mais vendas? (Distribuição por Unidade Federativa e ranking das principais praças).
